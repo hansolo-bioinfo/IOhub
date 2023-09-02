@@ -6,6 +6,4 @@ Immuno-Oncology hub (IOhub) is an interactive data repository based on R Shiny f
 
 https://hansolo-bioinfo.shinyapps.io/IOhub/
 
-# Tutorial
-
-<img width="1087" alt="tutor_1" src="https://github.com/hansolo-bioinfo/IOhub/assets/65295899/395e2c9f-95cd-47a7-b54e-5a2822c1402a">
+![Uploading Screenshot 2023-09-01 at 22.50.08.png…]()
